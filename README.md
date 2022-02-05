@@ -7,5 +7,6 @@ Para esto debe añadir en el archivo de configuración la cadena de conexión re
 
 # credenciales por defecto 
 Usuario: Gaia_Admin
+
 clave: *Gaia2022!
 
